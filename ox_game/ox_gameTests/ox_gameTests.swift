@@ -1,9 +1,3 @@
-//
-//  ox_gameTests.swift
-//  ox_gameTests
-//
-//  Created by 野村龍王 on 2024/05/14.
-//
 
 import XCTest
 @testable import ox_game
