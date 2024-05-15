@@ -1,9 +1,4 @@
-//
-//  ox_gameUITests.swift
-//  ox_gameUITests
-//
-//  Created by 野村龍王 on 2024/05/14.
-//
+
 
 import XCTest
 
